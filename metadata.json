@@ -1,0 +1,5 @@
+{
+  "name": "FAQ Chatbot",
+  "description": "A simple, intelligent FAQ chatbot powered by Gemini AI.",
+  "requestFramePermissions": ["microphone"]
+}
